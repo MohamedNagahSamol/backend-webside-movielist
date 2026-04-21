@@ -1,0 +1,20 @@
+حساب وهمي للتجربه
+{ 
+"name" :"mohamed",
+"email" :"memenoname@gmail.com",
+"password" :"Meme@12" ,
+"Role":"Admin"
+} 
+وهمي watchlist
+{ 
+"notes": "notes",
+"moveiId": "0a3b12fb-c8a3-4efe-87bc-68ae9519ffd7",
+"status": "PLANNED",
+"rating" :2.7 
+}
+{ 
+"notes": "notes",
+"moveiId": "665b7d17-f251-4b1f-a25d-5afb0078c4f4",
+"status": "PLANNED",
+"rating" :2.7 
+}
